@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Gotham TR';
+    src: url('subset-Gotham-Thin-TR.woff2') format('woff2'),
+        url('subset-Gotham-Thin-TR.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham TR';
+    src: url('subset-Gotham-Light-TR.woff2') format('woff2'),
+        url('subset-Gotham-Light-TR.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
